@@ -1,23 +1,28 @@
 # XDUCraft NBS
-## 介绍 / Introduction
-本曲库是专为 XDUCraft 社团打造的非官方 NBS 曲库。鉴于 [OpenNoteBlockStudio 开发组](https://github.com/OpenNBS)并未对 Disc Jockey/Notebot 提供官方支持曲库，我们为了方便社团同学们畅享游戏乐趣，特别建立了这个资源平台。
+本曲库是专为 XDUCraft 社团打造的非官方 NBS 曲库。鉴于 [OpenNoteBlockStudio 开发组](https://github.com/OpenNBS)并未对 Disc Jockey/Notebot 提供官方支持曲库，我们为了方便社团同学们畅享游戏乐趣，特别建立了这个资源平台。<br>
 曲库中的资源并非全部由 XDUCraft 社团独立制作，我们还整合了网络上众多优秀创作者的作品，但严格遵守版权规范和资源分享的合法性原则。需要说明的是，这个曲库并非XDUCraft社团的专属资产，我们秉持开放共享的理念，诚挚欢迎各位热爱Minecraft音乐的同学和同僚加入我们，一起丰富和完善这个曲库，让美妙的音乐在方块世界中持续传递。<br>
-This NBS music library is an unofficial one tailored for the XDUCraft community. Given that the OpenNoteBlockStudio development team doesn't provide an official music library for Disc Jockey/Notebot, we've created this platform to provide you with a pleasurable gaming experience.
+
+This NBS music library is an unofficial one tailored for the XDUCraft community. Given that the OpenNoteBlockStudio development team doesn't provide an official music library for Disc Jockey/Notebot, we've created this platform to provide you with a pleasurable gaming experience.<br>
 The library contains resources from various sources, including network creators, in addition to those made by the XDUCraft community, all while adhering to copyright laws and legal sharing principles. Note that this library isn't exclusive to the XDUCraft community. We embrace an open - sharing mindset and warmly welcome all Minecraft music enthusiasts to join us in enriching and improving the library, allowing beautiful music to keep flowing in the block world.
 
 ## 目录 / Catalog
 
+- [快速开始 / Quick Start](#快速开始--quick-start)
+- [参与贡献 / Contribution](#参与贡献--contribution)
+- [声明 / Statement](#声明-statement)
+- [额外注意事项 / Additional Notice](#额外注意事项--additional-notice)
 
 ## 快速开始 / Quick Start
 1. **安装模组 / Mod to Install**
    
-   **[DiscJockey](https://www.curseforge.com/minecraft/mc-mods/disc-jockey) + (Optional)[ModMenu](https://modrinth.com/mod/modmenu)**
-   or **[MeteorClient](https://meteorclient.com/)** 和 **FutureClient**
+   **[DiscJockey](https://www.curseforge.com/minecraft/mc-mods/disc-jockey) + (*Optional*)[ModMenu](https://modrinth.com/mod/modmenu)**
+   or **[MeteorClient](https://meteorclient.com/)** / **FutureClient**
 
-   >注意Meteor端和Future端是挂端。
+   >注意Meteor端和Future端是挂端。<br>
    >Future端是付费端，请*自行解决使用问题*，本仓库不直接提供诸如Crack版的副本。<br>
-   >To be warned MeteorClient and FutureClient are a hacked clients.
-   >Future is a premium client. Please *resolve the usage issues on your own*. This repository does not directly provide copies such as Crack versions.<br>
+   
+   >To be warned MeteorClient and FutureClient are a hacked clients.<br>
+   >FutureClient is a premium client. Please *resolve the usage issues on your own*. This repository does not directly provide copies such as Crack versions.<br>
 
 2. **获取NBS文件 / Get NBS**
    
@@ -30,22 +35,26 @@ The library contains resources from various sources, including network creators,
    git clone https://github.com/ayasapphire/XUDCraft-NBS.git
    ```
 
-   **如果你只对某些歌曲感兴趣**
+   **如果你只对某些歌曲感兴趣**。
    点击进入相应目录，选择你想要的歌曲文件NBS，点击下载即可。<br>
+   
    **If you are only interested in certain songs**
    Click to enter the corresponding directory, select the song file NBS you want, and click to download.
 
 3. **安装歌曲 / Where to Put Songs**
    对于Disc Jockey，将歌曲拖入游戏对应菜单窗口或如下目录<br>
+   
    For Disc Jockey, drag the song into the game's corresponding menu window or the following directory
    >.minecraft/config/discjockey/songs/
 
    对于Meteor端，将歌曲拖入如下目录<br>
+   
    For the MeteorClient, drag the song into the following directory
    >.minecraft/meteor-client/notebot/
 
-## 参与贡献
+## 参与贡献 / Contribution
 如果你也想参与到这个NBS库的编写（编曲），为这个库做出自己的贡献，我们随时欢迎。详情可以联系邮箱ayasapphire@qq.com或者在[XDUCraft群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GF4Ej90Dz5BJpIEGFs4DjkHIouVGD0hR&authKey=hEzyZX6lIOTEk4jwmvZDSQZCD2MV24xiIexe%2BaI9yM9Meo%2Bu0P9TvBukIDFKH5hT&noverify=0&group_code=684941112)内联系管理员。<br>
+
 If you also want to participate in the coding (arrangement) of this NBS library and make your own contribution to it, we welcome you at any time. For more details, please contact your email ayasapphire@qq.com Or contact the administrator in the [XDUCraft QQ group](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GF4Ej90Dz5BJpIEGFs4DjkHIouVGD0hR&authKey=hEzyZX6lIOTEk4jwmvZDSQZCD2MV24xiIexe%2BaI9yM9Meo%2Bu0P9TvBukIDFKH5hT&noverify=0&group_code=684941112).
 
 ## 声明 Statement
@@ -53,11 +62,13 @@ If you also want to participate in the coding (arrangement) of this NBS library 
 ### 资源中立性声明 / Neutrality Statement
 
 本资源库仅作为音乐文件共享平台，不代表维护者支持或认可任何原创作者的政治倾向、立场及观点。使用者应对内容自行判断。<br>
+
 This repository serves solely as a music file sharing platform. It does not represent the maintainer's endorsement of any original authors' political tendencies, positions or viewpoints. Users shall exercise independent judgment regarding content appropriateness.
 
 ### 版权响应 / Copyright Compliance
 
 所有文件版权归属原作者及权利人。收到版权方正式通知后，我们将在48小时内移除争议内容。侵权通知请提交至：ayasapphire@qq.com<br>
+
 All files belong to their respective copyright holders. Upon receiving formal notice from rights owners, we will remove disputed content within 24 hours. Submit DMCA requests to: ayasapphire@qq.com
 
 ### 无担保声明 / No Warranty
@@ -101,6 +112,7 @@ Maintainers not liable for:
 ### 协议变更权 / Terms Modification
 
 我们保留随时更新本声明的权利，恕不另行通知。<br>
+
 We reserve the right to modify these terms at any time without prior notice.
 
 
