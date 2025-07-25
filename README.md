@@ -26,22 +26,24 @@ The library contains resources from various sources, including network creators,
 
 2. **获取NBS文件 / Get NBS**
    
-   **如果你想直接下载全部歌曲**。
+   **如果你想直接下载全部歌曲**。<br>
    利用Git运行命令行指令。<br>
-   **If you want to download all the songs**.
-   Run command-line instructions using git.
+   
+   **If you want to download all the songs**.<br>
+   Run command-line instructions using git.<br>
 
    ```bash
    git clone https://github.com/ayasapphire/XUDCraft-NBS.git
    ```
 
-   **如果你只对某些歌曲感兴趣**。
-   点击进入相应目录，选择你想要的歌曲文件NBS，点击下载即可。<br>
+   **如果你只对某些歌曲感兴趣**。<br>
+   点击进入相应目录，选择你想要的歌曲的NBS文件，点击下载即可。<br>
    
-   **If you are only interested in certain songs**
-   Click to enter the corresponding directory, select the song file NBS you want, and click to download.
+   **If you are only interested in certain songs**<br>
+   Click to enter the corresponding directory, select the NBS file of the song you want, and click to download.
 
 3. **安装歌曲 / Where to Put Songs**
+   
    对于Disc Jockey，将歌曲拖入游戏对应菜单窗口或如下目录<br>
    
    For Disc Jockey, drag the song into the game's corresponding menu window or the following directory
