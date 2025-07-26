@@ -1,5 +1,7 @@
 # 游戏 / GameOST
 点击链接即可下载对应歌曲NBS文件。
+
+Click the link to download the corresponding song's NBS file.
 ## 蔚蓝档案 / Blue Archive
 (Theme 25) <a href="../forked_lib/NyaaNBS/nbs.handcrafted/GameOST/[BA][OST15]FutureBossa.nbs" download>**Future Bossa**</a>
 
