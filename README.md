@@ -7,10 +7,19 @@ The library contains resources from various sources, including network creators,
 
 ## 目录 / Catalog
 
+- [歌曲下载 / Download](#歌曲下载--download)
 - [快速开始 / Quick Start](#快速开始--quick-start)
 - [参与贡献 / Contribution](#参与贡献--contribution)
 - [声明 / Statement](#声明-statement)
 - [额外注意事项 / Additional Notice](#额外注意事项--additional-notice)
+
+## 歌曲下载 / Download
+按类列举如下 (Listed by category as follows)：
+- [动漫 / Anime](music_category/Anime)
+- [BGA](music_category/BGA)
+- [游戏 / GameOST](music_category/GameOST)
+- [Jpop](music_category/Jpop)
+- [术力口 / Vocaloid](music_category/Vocaloid)
 
 ## 快速开始 / Quick Start
 1. **安装模组 / Mod to Install**
